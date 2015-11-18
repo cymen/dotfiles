@@ -1,3 +1,3 @@
 # dotfiles
 
-Finally got around to making my own...
+Clone this repo then symlink .vim and .vimrc to ~/.
