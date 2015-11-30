@@ -16,3 +16,6 @@
 [submodule ".vim/bundle/command-t"]
 	path = .vim/bundle/command-t
 	url = git@github.com:wincent/command-t.git
+[submodule ".bash/git-aware-prompt"]
+	path = .bash/git-aware-prompt
+	url = git@github.com:jimeh/git-aware-prompt.git
