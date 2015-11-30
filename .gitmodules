@@ -13,3 +13,6 @@
 [submodule ".vim/bundle/vim-sensible"]
 	path = .vim/bundle/vim-sensible
 	url = git@github.com:tpope/vim-sensible.git
+[submodule ".vim/bundle/command-t"]
+	path = .vim/bundle/command-t
+	url = git@github.com:wincent/command-t.git
