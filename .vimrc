@@ -28,3 +28,5 @@ let NERDTreeIgnore              = ['\.git']
 let g:no_html_toolbar           = 'yes'
 let g:CommandTMaxHeight         = 10
 let g:CommandTMaxDepth          = 10
+set list
+set listchars=eol:¬,tab:▸\
