@@ -5,7 +5,6 @@ source $GITAWAREPROMPT/main.sh
 export PS1="\w \[$txtcyn\]\$git_branch\[$txtred\]\$git_dirty\[$txtrst\]\$ "
 
 source /usr/local/etc/bash_completion.d/git-completion.bash
-source /usr/local/etc/bash_completion.d/npm
 
 alias ls="ls -G"
 alias bi="bundle install"
