@@ -1,3 +1,4 @@
+source ~/.profile
 eval "$(rbenv init -)"
 
 export GITAWAREPROMPT=~/.bash/git-aware-prompt
@@ -9,5 +10,4 @@ source /usr/local/etc/bash_completion.d/git-completion.bash
 alias ls="ls -G"
 alias bi="bundle install"
 alias be="bundle exec"
-alias gittyup="git for-each-ref --sort=-committerdate refs/heads/ | head -n 10"
 alias gateway="route -n get default"
